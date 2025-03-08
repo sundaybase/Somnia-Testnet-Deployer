@@ -101,3 +101,5 @@ node main.js
 Follow the interactive menu instructions in the CLI. For the first operation, it is recommended to start by deploying a contract before distributing tokens.
 
 Pay attention to daily transaction limits and ensure the main wallet has enough balance for gas fees and token distribution.
+
+Last updated:
