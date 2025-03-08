@@ -22,7 +22,7 @@ A CLI tool for deploying ERC20 token contracts and distributing tokens/native as
 1. Clone the repository:
 ```bash
 git clone https://github.com/sundaybase/Somnia-Testnet-Deployer.git
-cd Somnia-Testnet-deployer
+cd Somnia-Testnet-Deployer
 ```
 
 2. Install dependencies:
