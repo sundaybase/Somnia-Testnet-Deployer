@@ -102,4 +102,4 @@ Follow the interactive menu instructions in the CLI. For the first operation, it
 
 Pay attention to daily transaction limits and ensure the main wallet has enough balance for gas fees and token distribution.
 
-Last updated: Mon Mar 10 01:25:44 UTC 2025
+Last updated: Mon Mar 10 06:27:06 UTC 2025
